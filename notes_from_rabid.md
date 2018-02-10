@@ -36,6 +36,7 @@ Learnings
   - disaster resilience
 - we should strongly show people git-ssb (esp for devs)
 
-
-
-
+- enable better scuttleverse merging
+  - tell people about immutability!
+  - modify the roleplay so that people feel alright merging their content into the main verse
+ 
